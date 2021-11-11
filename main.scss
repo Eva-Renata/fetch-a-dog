@@ -1,0 +1,24 @@
+html{
+    height: 100%;
+}
+body {
+    height: 100%;
+    display: block;
+    background-color: rgba(211, 211, 211, 0.384);
+    section {
+        padding-top:10%;
+        align-items: center;
+        margin: auto;
+        width: 300px;
+        text-align: center;
+        #dog {
+            width: 300px;
+            height: 300px;
+        }
+        #buttons {
+            align-items: center;
+            margin: auto;
+        }
+    }
+}
+   
